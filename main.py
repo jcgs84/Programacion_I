@@ -13,7 +13,7 @@
 #     print("precio ", item.get_price())
 #     print("----")
 
-## --------------------------------------------------------
+"""Main comentario JCGS"""
 
 
 
